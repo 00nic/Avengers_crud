@@ -1,0 +1,2 @@
+Nicolas Gonzalez: backend
+Sofia Gonzalez: frontend
